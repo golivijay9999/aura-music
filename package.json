@@ -1,0 +1,41 @@
+{
+  "name": "aura-music",
+  "version": "1.0.0",
+  "description": "Aura Music - Premium Ad-Free Music Streaming across Telugu, Hindi, Tamil, Kannada, Malayalam, English & more with Synced Lyrics, Listening Rooms, and Ringtone Studio",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev:server": "node server/index.js",
+    "dev:client": "npm.cmd run dev --prefix client",
+    "dev": "concurrently \"node server/index.js\" \"npm.cmd run dev --prefix client\"",
+    "build": "npm run build --prefix client",
+    "test": "node test/suite.js",
+    "share": "node server/tunnel.js"
+  },
+  "keywords": [
+    "music",
+    "streaming",
+    "ad-free",
+    "telugu",
+    "lyrics",
+    "listening-rooms",
+    "ringtone"
+  ],
+  "author": "Aura Music Team",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "localtunnel": "^2.0.2",
+    "multer": "^2.5.0",
+    "socket.io": "^4.8.4"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.6"
+  }
+}

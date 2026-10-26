@@ -1,0 +1,42 @@
+{
+  "name": "AURA MUSIC",
+  "short_name": "AuraMusic",
+  "description": "Premium Ad-Free Music Streaming across Telugu, Hindi, Tamil, Kannada, Malayalam, English & more with Synced Lyrics, Listening Rooms, and Ringtone Studio.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07050e",
+  "theme_color": "#08060f",
+  "categories": ["music", "entertainment", "audio"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Search Music",
+      "url": "/search",
+      "icons": [{ "src": "/icons/icon-192.svg", "sizes": "192x192" }]
+    },
+    {
+      "name": "Ringtone Studio",
+      "url": "/ringtone",
+      "icons": [{ "src": "/icons/icon-192.svg", "sizes": "192x192" }]
+    },
+    {
+      "name": "Listening Rooms",
+      "url": "/rooms",
+      "icons": [{ "src": "/icons/icon-192.svg", "sizes": "192x192" }]
+    }
+  ]
+}

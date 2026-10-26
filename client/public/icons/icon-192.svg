@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <defs>
+    <radialGradient id="auraBg" cx="30%" cy="20%" r="90%">
+      <stop offset="0%" stop-color="#1e1035"/>
+      <stop offset="50%" stop-color="#0f0720"/>
+      <stop offset="100%" stop-color="#07040d"/>
+    </radialGradient>
+    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c084fc"/>
+      <stop offset="40%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="48" fill="url(#auraBg)"/>
+  <circle cx="96" cy="96" r="70" stroke="url(#neonGrad)" stroke-width="3" stroke-opacity="0.3" fill="none"/>
+  <path d="M60 135 L96 55 L132 135" stroke="url(#neonGrad)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M74 110 L118 110" stroke="url(#neonGrad)" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="96" cy="88" r="11" fill="url(#neonGrad)"/>
+</svg>

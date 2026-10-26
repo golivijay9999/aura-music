@@ -1,0 +1,169 @@
+{
+  "users": [
+    {
+      "id": "usr_1792995030869_7jezt",
+      "username": "aura_test_1792995030743",
+      "email": "aura_test_1792995030743@example.com",
+      "passwordHash": "$2b$10$Clr9e.YgYE.xwwNJlW4ASumX3U9haVYEGBlcuDvyzklpYmX8R6rWO",
+      "avatar": "https://api.dicebear.com/7.x/identicon/svg?seed=aura_test_1792995030743",
+      "favoriteLanguages": [
+        "telugu",
+        "hindi",
+        "english"
+      ],
+      "favoriteGenres": [
+        "Melody",
+        "Beat / Party",
+        "EDM",
+        "Romantic"
+      ],
+      "createdAt": "2026-10-26T06:10:30.869Z"
+    }
+  ],
+  "likedSongs": {
+    "usr_1792995030869_7jezt": [
+      {
+        "id": "qJlhGNon",
+        "title": "Adhento Gaani Vunnapaatuga",
+        "artist": "Anirudh Ravichander",
+        "album": "Trending Telugu Vibes",
+        "year": "2026",
+        "duration": 237,
+        "artwork": "https://c.saavncdn.com/420/Trending-Telugu-Vibes-Telugu-2026-20260901053710-500x500.jpg",
+        "streamUrl": "https://aac.saavncdn.com/420/85a60bbb7eae1f9ed4437cb910f793b2_320.mp4",
+        "stream160": "https://aac.saavncdn.com/420/85a60bbb7eae1f9ed4437cb910f793b2_160.mp4",
+        "stream320": "https://aac.saavncdn.com/420/85a60bbb7eae1f9ed4437cb910f793b2_320.mp4",
+        "downloadUrl": "https://aac.saavncdn.com/420/85a60bbb7eae1f9ed4437cb910f793b2_320.mp4",
+        "language": "telugu",
+        "hasLyrics": false,
+        "provider": "saavn",
+        "isDownloadable": true,
+        "isYouTube": false,
+        "genre": "Film / Regional",
+        "likedAt": "2026-10-26T06:10:33.146Z"
+      }
+    ]
+  },
+  "playlists": {
+    "usr_1792995030869_7jezt": [
+      {
+        "id": "pl_favorites_usr_1792995030869_7jezt",
+        "title": "Favorites",
+        "description": "Your favorite tracks in one place",
+        "artwork": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=500&q=80",
+        "tracks": [],
+        "createdAt": "2026-10-26T06:10:30.869Z"
+      },
+      {
+        "id": "pl_1792995033153_qvck5",
+        "title": "Tollywood Gold",
+        "description": "Best Telugu hits",
+        "artwork": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500&q=80",
+        "tracks": [
+          {
+            "id": "qJlhGNon",
+            "title": "Adhento Gaani Vunnapaatuga",
+            "artist": "Anirudh Ravichander",
+            "album": "Trending Telugu Vibes",
+            "year": "2026",
+            "duration": 237,
+            "artwork": "https://c.saavncdn.com/420/Trending-Telugu-Vibes-Telugu-2026-20260901053710-500x500.jpg",
+            "streamUrl": "https://aac.saavncdn.com/420/85a60bbb7eae1f9ed4437cb910f793b2_320.mp4",
+            "stream160": "https://aac.saavncdn.com/420/85a60bbb7eae1f9ed4437cb910f793b2_160.mp4",
+            "stream320": "https://aac.saavncdn.com/420/85a60bbb7eae1f9ed4437cb910f793b2_320.mp4",
+            "downloadUrl": "https://aac.saavncdn.com/420/85a60bbb7eae1f9ed4437cb910f793b2_320.mp4",
+            "language": "telugu",
+            "hasLyrics": false,
+            "provider": "saavn",
+            "isDownloadable": true,
+            "isYouTube": false,
+            "genre": "Film / Regional"
+          }
+        ],
+        "createdAt": "2026-10-26T06:10:33.153Z"
+      }
+    ]
+  },
+  "history": {
+    "usr_1792995030869_7jezt": [],
+    "guest_1792995286719": [
+      {
+        "id": "P5pjB99X",
+        "title": "Radhimaa (From \"Think Indie\")",
+        "artist": "Sai Abhyankkar, Nargis Teji, Asma Teji, Vivek",
+        "album": "Radhimaa (From \"Think Indie\")",
+        "year": "2026",
+        "duration": 259,
+        "artwork": "https://c.saavncdn.com/877/Radhimaa-From-Think-Indie-Tamil-2026-20260827192132-500x500.jpg",
+        "streamUrl": "https://aac.saavncdn.com/877/875e41134def3f76517ce29ea7819fc8_320.mp4",
+        "stream160": "https://aac.saavncdn.com/877/875e41134def3f76517ce29ea7819fc8_160.mp4",
+        "stream320": "https://aac.saavncdn.com/877/875e41134def3f76517ce29ea7819fc8_320.mp4",
+        "downloadUrl": "https://aac.saavncdn.com/877/875e41134def3f76517ce29ea7819fc8_320.mp4",
+        "language": "tamil",
+        "hasLyrics": false,
+        "provider": "saavn",
+        "isDownloadable": true,
+        "isYouTube": false,
+        "genre": "Film / Regional",
+        "playedAt": "2026-10-26T06:18:10.877Z"
+      },
+      {
+        "id": "audius_mzXmz1",
+        "title": "On The Floor",
+        "artist": "Ciara Graves",
+        "album": "Dubstep Collection",
+        "year": "2026",
+        "duration": 180,
+        "artwork": "https://val013.open-audio-validator.com/content/baeaaaiqsebkzr2fnqn7cuser72u2ipxqb53q5p322vao3ewyvaagdpx62h5ja/480x480.jpg",
+        "streamUrl": "https://api.audius.co/v1/tracks/mzXmz1/stream?app_name=AURAMUSIC",
+        "stream160": "https://api.audius.co/v1/tracks/mzXmz1/stream?app_name=AURAMUSIC",
+        "stream320": "https://api.audius.co/v1/tracks/mzXmz1/stream?app_name=AURAMUSIC",
+        "downloadUrl": "https://api.audius.co/v1/tracks/mzXmz1/stream?app_name=AURAMUSIC",
+        "language": "english",
+        "hasLyrics": false,
+        "provider": "audius",
+        "isDownloadable": true,
+        "isYouTube": false,
+        "genre": "Dubstep",
+        "playedAt": "2026-10-26T06:15:52.083Z"
+      },
+      {
+        "id": "jlBMldVu",
+        "title": "Veezha Veera (From \"OM Chapter 1: Udhiram  - The Blood Wood\") [Tamil]",
+        "artist": "Sai Abhyankkar, Tippu, Arun Srinivasan",
+        "album": "Veezha Veera (From \"OM Chapter 1: Udhiram  - The Blood Wood\") [Tamil]",
+        "year": "2026",
+        "duration": 236,
+        "artwork": "https://c.saavncdn.com/696/Veezha-Veera-From-OM-Chapter-1-Udhiram-The-Blood-Wood-Tamil-Tamil-2026-20261019161818-500x500.jpg",
+        "streamUrl": "https://aac.saavncdn.com/696/33b63dd76847575d76550d30dcc97bf5_320.mp4",
+        "stream160": "https://aac.saavncdn.com/696/33b63dd76847575d76550d30dcc97bf5_160.mp4",
+        "stream320": "https://aac.saavncdn.com/696/33b63dd76847575d76550d30dcc97bf5_320.mp4",
+        "downloadUrl": "https://aac.saavncdn.com/696/33b63dd76847575d76550d30dcc97bf5_320.mp4",
+        "language": "tamil",
+        "hasLyrics": false,
+        "provider": "saavn",
+        "isDownloadable": true,
+        "isYouTube": false,
+        "genre": "Film / Regional",
+        "playedAt": "2026-10-26T06:14:53.261Z"
+      }
+    ]
+  },
+  "savedAlbums": {
+    "usr_1792995030869_7jezt": []
+  },
+  "ringtones": [
+    {
+      "id": "rt_1792995033160_2g56d",
+      "createdAt": "2026-10-26T06:10:33.160Z",
+      "title": "Devara Hook Tone",
+      "originalTrack": "Fear Song",
+      "startTime": 0,
+      "endTime": 30,
+      "duration": 30,
+      "preset": "ringtone",
+      "audioData": "",
+      "size": "Unknown"
+    }
+  ]
+}
